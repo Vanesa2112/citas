@@ -1,0 +1,23 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	gclid	EAIaIQobChMI0Ma1n5ST-AIVB8zICh33awSBEAAYASAAEgI-wPD_BwE
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	analytics_source	google
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	analytics_medium	cpc
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	analytics_term	+citas +pagina
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	analytics_campaign	Ashley+Madison+-+MX+-+Citas
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	analytics_content	b
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	am_utm	242732095
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	amanalyticshash	3d54b4205dd4d4d83562cf5efe86919c
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	browser_lang	en_US
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	user_country	17
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	user_lang	es_US
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	amvid	0A78BA9F5940F26B886C065769451B86
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	amuser	new
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	ots	1654323867
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	site	married
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	lang	es_US
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	am_acc_autologin_exception	deleted
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	referer	http%3A%2F%2Fwww.ashleymadison.com%2Fes-mx%2Flogin%2F%3Flang%3Des_MX
+www.ashleymadison.com	TRUE	/	FALSE	1999999999	country	17
+.ashleymadison.com	TRUE	/	FALSE	1999999999	dtCookie	v_4_srv_7_sn_030DE1ED8DB29DC0AA9844C8E0088677_perc_100000_ol_0_mul_1_app-3A3300639e6ec22919_1
+
